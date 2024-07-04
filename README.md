@@ -6,10 +6,10 @@ If sustainable financial growth over the long-run is the destination, then analy
 
 ## Analyses
 
-See analysis notebooks [here](https://www.github.com/codedarrylcode/moneybags/notebooks).
+See analysis notebooks [here](https://github.com/codedarrylcode/moneybags/tree/main/notebooks).
 
 ### Completed
 
 ### Coming Soon
 
-1. **[Dollar Cost Averaging (DCA) vs Lump Sum (LS) Investing](https://www.github.com/codedarrylcode/moneybags/notebooks/DCA_vs_LS)** DCA has gained mainstream attention but if you had $100K sitting in your bank, should you invest it using DCA or all at one go (LS)?
+1. **[Dollar Cost Averaging (DCA) vs Lump Sum (LS) Investing](https://github.com/codedarrylcode/moneybags/tree/main/notebooks/DCA_vs_LS)** DCA has gained mainstream attention but if you had $100K sitting in your bank, should you invest it using DCA or all at one go (LS)?
